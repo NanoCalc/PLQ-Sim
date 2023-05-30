@@ -28,11 +28,11 @@ Program interface:
 
 Adicionar figura da interface aqui.
 
-Input example:
+Input example for PBDB-TF/ITIC blend:
 
 Adicionar figura do input aqui.
 
-Some outputs:
+Some outputs for PBDB-TF/ITIC blend:
 
 Ainda vou fazer uma figura para os outputs para colocar aqui.
 
