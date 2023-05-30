@@ -10,6 +10,10 @@ If the excitation wavelength corresponds to acceptor’s main absorption band, t
 
 $$ PLQ_{A}(\\%) = 1 - \dfrac{PL\left[D/A\right]}{PL\left[A\right]} $$
 
+The figure below illustrates PL measurements using a fluorimeter after selective excitation of the donor or acceptor.
+
+Adicionar Figura 1 aqui.
+
 The measurement of PL is a powerful tool to investigate photoluminescence quenching in D/A blends. However, the application of this experimental method does not allow to study the details of the processes that contribute to the quenching.  Deep knowledge of the excited state dynamics at D/A interfaces by kinetic modeling is fundamental to tailoring the properties of the blend aiming at different applications.
 
 Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based on a kinetic model that considers all possibilities involved in exciton dissociation.⁠ 
@@ -22,11 +26,11 @@ We believe that this model can be very helpful for research groups interested in
 
 Program interface:
 
-Adicionar imagem aqui.
+Adicionar da interface aqui.
 
 Input example:
 
-Adicionar imagem aqui.
+Adicionar do input aqui.
 
 Some outputs:
 
