@@ -1,3 +1,4 @@
+
 **Photoluminescence Quenching Simulator (`PLQ-Sim`)** is a user-friendly software to study the photoexcited state dynamics at the interface between two organic semiconductors forming a blend, an electron donor (D), and an electron acceptor (A). Its main function is to provide substantial information on the photophysical processes relevant to organic photovoltaic and photothermal devices, such as charge transfer state formation and subsequent free charge generation or exciton recombination.
 
 The PL effect corresponds to the light emission from the radiative exciton recombination after photon absorption in the material. Depending on the material combination, PL can be quenched due to interfacial charge transfer processes.
@@ -12,7 +13,7 @@ $$ PLQ_{A}(\\%) = 1 - \dfrac{PL\left[D/A\right]}{PL\left[A\right]} $$
 
 The figure below illustrates PL measurements using a fluorimeter after selective excitation of the donor or acceptor.
 
-Adicionar Figura 1 aqui.
+![fig1](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/2d2afb9e-ccc2-4c17-b743-88eb0aef94ca)
 
 The measurement of PL is a powerful tool to investigate photoluminescence quenching in D/A blends. However, the application of this experimental method does not allow to study the details of the processes that contribute to the quenching.  Deep knowledge of the excited state dynamics at D/A interfaces by kinetic modeling is fundamental to tailoring the properties of the blend aiming at different applications.
 
@@ -28,17 +29,23 @@ The software binaries can be downloaded for [*Unix-like systems (Linux)*](https:
 
 Program interface:
 
-Adicionar figura da interface aqui.
+![interface](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/25606a17-2f55-4bfc-b7ee-32faa376c939)
 
 Input example for PBDB-TF/ITIC blend:
 
-Adicionar figura do input aqui (*download the input file to test the app by clicking here*).
+![input](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/34ed5bc0-62af-45e6-b043-53c4a7b25c41)
+ 
 
+
+(*download the input file to test the app by clicking here*).
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
 $PLQ_{D}$ = 84%
 
-Adicionar figura do output aqui.
+
+![output](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4)
+
+
 Legend - Energy−level representation and averaged rates for the electron dynamics calculated by PLQ-Sim.
 
 `PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
