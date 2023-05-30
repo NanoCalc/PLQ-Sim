@@ -34,13 +34,13 @@ Input example for PBDB-TF/ITIC blend:
 
 Adicionar figura do input aqui.
 
-Some outputs for PBDB-TF/ITIC blend:
+Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
-Ainda vou fazer uma figura para os outputs para colocar aqui.
-
-`PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
+Adicionar figura do output aqui.
 
 Test the app using sample data.
+
+`PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
 # Authors
 * [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
