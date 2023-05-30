@@ -36,6 +36,8 @@ Adicionar figura do input aqui (*download the input file to test the app by clic
 
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
+$PLQ_{D}$ = 84%
+
 Adicionar figura do output aqui.
 
 `PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
