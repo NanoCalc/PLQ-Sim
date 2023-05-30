@@ -19,7 +19,15 @@ The figure below illustrates PL measurements using a fluorimeter after selective
 
 The measurement of PL is a powerful tool to investigate photoluminescence quenching in D/A blends. However, the application of this experimental method does not allow to study the details of the processes that contribute to the quenching.  Deep knowledge of the excited state dynamics at D/A interfaces by kinetic modeling is fundamental to tailoring the properties of the blend aiming at different applications.
 
-Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based on a kinetic model that considers all possibilities involved in exciton dissociation.⁠ 
+Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based on a kinetic model that considers all possibilities involved in exciton dissociation.⁠
+
+**FRET−Calc: A Free Software and Web Server for Förster Resonance Energy Transfer Calculation** 
+
+[![DOI:10.1016/j.cpc.2023.108715](http://img.shields.io/badge/DOI-10.1016/j.cpc.2023.108715-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
+
+**Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells** 
+
+[![DOI:10.1039/D0TC01077D](http://img.shields.io/badge/DOI-10.1039/D0TC01077D.svg)](https://doi.org/10.1016/j.cpc.2023.108715)
 
 [Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.](https://doi.org/10.1039/D0TC01077D)
 
