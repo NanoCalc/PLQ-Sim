@@ -26,15 +26,15 @@ We believe that this model can be very helpful for research groups interested in
 
 Program interface:
 
-Adicionar da interface aqui.
+Adicionar figura da interface aqui.
 
 Input example:
 
-Adicionar do input aqui.
+Adicionar figura do input aqui.
 
 Some outputs:
 
-Adicionar imagem aqui.
+Ainda vou fazer uma figura para os outputs para colocar aqui.
 
 `PLQ-Sim` can also be used online on [our website](https://nanocalc.org).
 
