@@ -45,13 +45,17 @@ Input example for PBDB-TF/ITIC blend:
 
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
-$PLQ_{D}$ = 84%
+<p align="center">  
+  $PLQ_{D}$ = 84%
+</p>
 
 <p align="center">  
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4" />
 </p>
 
-Legend - Energy−level representation and averaged rates for the electron dynamics calculated by PLQ-Sim.
+<p align="center">  
+  Energy−level representation and transfer rates for the electron dynamics calculated by PLQ-Sim.
+</p>
 
 `PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
