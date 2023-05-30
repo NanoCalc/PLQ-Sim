@@ -32,13 +32,11 @@ Adicionar figura da interface aqui.
 
 Input example for PBDB-TF/ITIC blend:
 
-Adicionar figura do input aqui.
+Adicionar figura do input aqui (*download the input file to test the app by clicking here*).
 
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
 Adicionar figura do output aqui.
-
-Test the app using sample data.
 
 `PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
