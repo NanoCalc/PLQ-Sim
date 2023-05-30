@@ -39,6 +39,7 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 $PLQ_{D}$ = 84%
 
 Adicionar figura do output aqui.
+Legend - Energy−level representation and averaged rates for the electron dynamics calculated by PLQ-Sim.
 
 `PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
