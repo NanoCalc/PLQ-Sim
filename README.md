@@ -24,6 +24,8 @@ Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based
 
 We believe that this model can be very helpful for research groups interested in the dynamics of charge generation or exciton recombination induced by light excitation of D/A blends. To popularize this model, we developed a free license software, Photoluminescence Quenching Simulator (PLQ-Sim), that is easy to handle and provides key features to characterize the system. To perform the simulation, basic information about the materials must be provided as input parameters (like the energy levels, dielectric constant, reorganization energy, and singlet exciton lifetime, for instance). If some information of the analyzed system is missing, default values for the class of material studied can be used. After running the simulation, the rates of the physical processes involved in the charge dynamics at the D/A interface (like the charge transfer or charge recombination rates, for instance) are provided as output. This information is crucial to characterize the photophysical process as a whole and propose solutions for system optimizations.
 
+The software binaries can be downloaded for [*Unix-like systems (Linux)*](https://nanocalc.org/), [*Windows*](https://nanocalc.org/) and [*macOS*](https://nanocalc.org/) operating systems.<br> 
+
 Program interface:
 
 Adicionar figura da interface aqui.
