@@ -48,11 +48,9 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 <p align="center">  
   $PLQ_{D}$ = 84%
 </p>
-
 <p align="center">  
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4" />
 </p>
-
 <p align="center">  
   Energy−level representation and transfer rates for the electron dynamics calculated by PLQ-Sim.
 </p>
