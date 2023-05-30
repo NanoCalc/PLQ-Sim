@@ -18,9 +18,9 @@ The measurement of PL is a powerful tool to investigate photoluminescence quench
 
 Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based on a kinetic model that considers all possibilities involved in exciton dissociation.⁠ 
 
-[Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020,8, 8755-8769.](https://doi.org/10.1039/D0TC01077D)
+[Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.](https://doi.org/10.1039/D0TC01077D)
 
-[Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021,9, 27568-27585.](https://doi.org/10.1039/D1TA06698F)
+[Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.](https://doi.org/10.1039/D1TA06698F)
 
 We believe that this model can be very helpful for research groups interested in the dynamics of charge generation or exciton recombination induced by light excitation of D/A blends. To popularize this model, we developed a free license software, Photoluminescence Quenching Simulator (PLQ-Sim), that is easy to handle and provides key features to characterize the system. To perform the simulation, basic information about the materials must be provided as input parameters (like the energy levels, dielectric constant, reorganization energy, and singlet exciton lifetime, for instance). If some information of the analyzed system is missing, default values for the class of material studied can be used. After running the simulation, the rates of the physical processes involved in the charge dynamics at the D/A interface (like the charge transfer or charge recombination rates, for instance) are provided as output. This information is crucial to characterize the photophysical process as a whole and propose solutions for system optimizations.
 
