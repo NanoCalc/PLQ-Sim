@@ -17,8 +17,6 @@ The figure below illustrates PL measurements using a fluorimeter after selective
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/2d2afb9e-ccc2-4c17-b743-88eb0aef94ca" />
 </p>
 
-![fig1](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/2d2afb9e-ccc2-4c17-b743-88eb0aef94ca)
-
 The measurement of PL is a powerful tool to investigate photoluminescence quenching in D/A blends. However, the application of this experimental method does not allow to study the details of the processes that contribute to the quenching.  Deep knowledge of the excited state dynamics at D/A interfaces by kinetic modeling is fundamental to tailoring the properties of the blend aiming at different applications.
 
 Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based on a kinetic model that considers all possibilities involved in exciton dissociation.⁠ 
@@ -33,12 +31,15 @@ The software binaries can be downloaded for [*Unix-like systems (Linux)*](https:
 
 Program interface:
 
-![interface](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/25606a17-2f55-4bfc-b7ee-32faa376c939)
+<p align="center">  
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/25606a17-2f55-4bfc-b7ee-32faa376c939" />
+</p>
 
 Input example for PBDB-TF/ITIC blend:
 
-![input](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/34ed5bc0-62af-45e6-b043-53c4a7b25c41)
- 
+<p align="center">  
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/34ed5bc0-62af-45e6-b043-53c4a7b25c41" />
+</p> 
 
 [*Download the input file to test the app by clicking here*](https://github.com/NanoCalc/PLQ-Sim/blob/main/Data%20Sample/Input-PLQ-PBDB-TF-ITIC.xlsx)
 
@@ -46,9 +47,9 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
 $PLQ_{D}$ = 84%
 
-
-![output](https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4)
-
+<p align="center">  
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4" />
+</p>
 
 Legend - Energy−level representation and averaged rates for the electron dynamics calculated by PLQ-Sim.
 
