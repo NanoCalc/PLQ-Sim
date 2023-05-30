@@ -38,7 +38,7 @@ Some outputs for PBDB-TF/ITIC blend:
 
 Ainda vou fazer uma figura para os outputs para colocar aqui.
 
-`PLQ-Sim` can also be used online on [our website](https://nanocalc.org).
+`PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
 Test the app using sample data.
 
