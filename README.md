@@ -41,8 +41,6 @@ Input example for PBDB-TF/ITIC blend:
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/34ed5bc0-62af-45e6-b043-53c4a7b25c41" />
 </p> 
 
-[*Download the input file to test the app by clicking here*](https://github.com/NanoCalc/PLQ-Sim/blob/main/Data%20Sample/Input-PLQ-PBDB-TF-ITIC.xlsx)
-
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 
 <p align="center">  
