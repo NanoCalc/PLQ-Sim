@@ -32,13 +32,13 @@ We believe this model can be helpful for research groups interested in the dynam
 Program interface:
 
 <p align="center">  
-  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/25606a17-2f55-4bfc-b7ee-32faa376c939" />
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/129612477/8af3706e-1f6e-4814-8ebe-63ece4360b8a" />
 </p>
 
 Input example for PBDB-TF/ITIC blend:
 
 <p align="center">  
-  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/34ed5bc0-62af-45e6-b043-53c4a7b25c41" />
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/129612477/dc95bc6a-2e4f-4ca4-9e83-ed968da57ce8" />
 </p> 
 
 Demonstration of part of the generated output for PBDB-TF/ITIC blend:
@@ -47,7 +47,7 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
   $PLQ_{D}$ = 84%
 </p>
 <p align="center">  
-  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/f47a7c3d-b5fe-4ed7-92ad-05c16d9684e4" />
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/129612477/0c341d81-f431-45ec-8bd5-df64bdbf0f04" />
 </p>
 <p align="center">  
   Energy−level representation and transfer rates for the electron dynamics calculated by PLQ-Sim.
