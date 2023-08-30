@@ -14,7 +14,7 @@ $$ PLQ_{A}(\\%) = 1 - \dfrac{PL\left[D/A\right]}{PL\left[A\right]} $$
 The figure below illustrates PL measurements using a fluorimeter after selective excitation of the donor or acceptor.
 
 <p align="center">  
-  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/34662089/2d2afb9e-ccc2-4c17-b743-88eb0aef94ca" />
+  <img width="500em" src="https://github.com/NanoCalc/nanocalc.org/blob/main/docs/static/images/plq.png" />
 </p>
 
 The measurement of PL is a powerful tool to investigate photoluminescence quenching in D/A blends. However, the application of this experimental method does not allow to study the details of the processes that contribute to the quenching.  Deep knowledge of the excited state dynamics at D/A interfaces by kinetic modeling is fundamental to tailoring the properties of the blend aiming at different applications.
