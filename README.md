@@ -31,9 +31,7 @@ This article is open access: you can get the preprint [here](https://github.com/
 
 Earlier articles that form the basis for the current theory used in the program:
 
-**Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.** [link](https://doi.org/10.1039/D0TC01077D)
-
- [![DOI:10.1039/D0TC01077D](https://img.shields.io/badge/DOI-10.1039/D0TC01077D-B31B1.svg)](https://doi.org/10.1039/D0TC01077D)
+**Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.** [![DOI:10.1039/D0TC01077D](https://img.shields.io/badge/DOI-10.1039/D0TC01077D-B31B1.svg)](https://doi.org/10.1039/D0TC01077D)
 
 **Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.** [link](https://doi.org/10.1039/D1TA06698F)
 
