@@ -45,7 +45,7 @@ Program interface:
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/129612477/8af3706e-1f6e-4814-8ebe-63ece4360b8a" />
 </p>
 
-Input example for PBDB-TF/ITIC blend:
+[Input](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/data-sample.zip) example for PBDB-TF/ITIC blend:
 
 <p align="center">  
   <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/129612477/dc95bc6a-2e4f-4ca4-9e83-ed968da57ce8" />
@@ -82,13 +82,16 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-
-# Spectral Data
+* The [`data-sample`](https://github.com/NanoCalc/PLQ-Sim/tree/main/data-sample) folder contains an example of the data set needed to run `PLQ-Sim`.<br> 
+You can download them [here](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/data-sample.zip)
 
 # Acknowledgments
 The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5), INCT - Carbon Nanomaterials and INCT - Materials Informatics. L.B. (grant E-26/202.091/2022 process 277806), O.M. (grant E-26/200.729/2023 process 285493) and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
 
 # How to cite PLQ-Sim software
+
+If you use `PLQ-Sim`, please indicate in your published work by citing: 
+- **PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends, Computer Physics Communications, 296, 2024, 109015.** [link](https://doi.org/10.1016/j.cpc.2023.109015)
 
 # Cited by
 
