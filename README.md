@@ -72,9 +72,9 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 * [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>
 
 # Institutions
-<sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>
-<sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br>
-<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/>
+<sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
+<sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br> [UFPR](http://fisica.ufpr.br/posgrad/)
+<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/> [LNNano](https://lnnano.cnpem.br/en/home-en/)
 
 # Developers
 * [Leandro Benatto](https://github.com/LeandroBenatto)
