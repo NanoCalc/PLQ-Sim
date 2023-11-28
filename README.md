@@ -33,7 +33,7 @@ Earlier articles that form the basis for the current theory used in the program:
 
 **Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.** [![DOI:10.1039/D0TC01077D](https://img.shields.io/badge/DOI-10.1039/D0TC01077D-B31B1.svg)](https://doi.org/10.1039/D0TC01077D)
 
-**Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.** [link](https://doi.org/10.1039/D1TA06698F)
+**Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.** [![DOI:10.1039/D1TA06698F](https://img.shields.io/badge/DOI-10.1039/D1TA06698F-B31B1.svg)](https://doi.org/10.1039/D1TA06698F)
 
 To perform the simulation, basic information about the materials must be provided as input parameters (like the energy levels, dielectric constant, reorganization energy, and singlet exciton lifetime, for instance). If some information of the analyzed system is missing, default values for the class of material studied can be used. After running the simulation, the rates of the physical processes involved in the charge dynamics at the D/A interface (like the charge transfer or charge recombination rates, for instance) are provided as output. This information is crucial to characterize the photophysical process as a whole and propose solutions for system optimizations.
 
