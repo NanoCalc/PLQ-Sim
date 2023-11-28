@@ -23,15 +23,15 @@ Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based
 
 Detailed instructions for using PLQ-Sim can be consulted in our published article:
 
-**PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends**[link](https://doi.org/10.1016/j.cpc.2023.109015)
+**PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends** [article page](https://doi.org/10.1016/j.cpc.2023.109015)
 
 This article is open access: you can get the preprint [here](https://github.com/NanoCalc/PLQ-Sim/blob/main/PLQ-Sim.pdf).
 
 Earlier articles that form the basis for the current theory used in the program:
 
-**Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.**[link](https://doi.org/10.1039/D0TC01077D)
+**Kinetic model for photoluminescence quenching by selective excitation of D/A blends: implications for charge separation in fullerene and non-fullerene organic solar cells, J. Mater. Chem. C, 2020, 8, 8755-8769.** [article page](https://doi.org/10.1039/D0TC01077D)
 
-**Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.**[link](https://doi.org/10.1039/D1TA06698F)
+**Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.** [article page](https://doi.org/10.1039/D1TA06698F)
 
 To perform the simulation, basic information about the materials must be provided as input parameters (like the energy levels, dielectric constant, reorganization energy, and singlet exciton lifetime, for instance). If some information of the analyzed system is missing, default values for the class of material studied can be used. After running the simulation, the rates of the physical processes involved in the charge dynamics at the D/A interface (like the charge transfer or charge recombination rates, for instance) are provided as output. This information is crucial to characterize the photophysical process as a whole and propose solutions for system optimizations.
 
