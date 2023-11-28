@@ -1,3 +1,6 @@
+<p align="center">  
+  <img width="500em" src="https://github.com/NanoCalc/PLQ-Sim/assets/50087811/ec6a5046-b0b7-4c47-b5f4-3e2ad2693921" />
+</p>
 
 **Photoluminescence Quenching Simulator (`PLQ-Sim`)** is a user-friendly software to study the photoexcited state dynamics at the interface between two organic semiconductors forming a blend, an electron donor (D), and an electron acceptor (A). Its main function is to provide substantial information on the photophysical processes relevant to organic photovoltaic and photothermal devices, such as charge transfer state formation and subsequent free charge generation or exciton recombination.
 
