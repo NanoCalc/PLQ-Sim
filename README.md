@@ -37,6 +37,8 @@ To perform the simulation, basic information about the materials must be provide
 
 **The software binaries can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-Unix.zip), [*Windows*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-MacOS.zip).
 
+`PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
+
 Program interface:
 
 <p align="center">  
@@ -60,8 +62,6 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 <p align="center">  
   Energy−level representation and transfer rates for the electron dynamics calculated by PLQ-Sim.
 </p>
-
-`PLQ-Sim` can also be used online on our website [nanocalc.org](https://nanocalc.org).
 
 # Authors
 * [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
