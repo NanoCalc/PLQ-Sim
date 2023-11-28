@@ -98,7 +98,7 @@ The authors acknowledge financial support from LC-Nano/SisNANO 2.0 (grant 442591
 # How to cite PLQ-Sim software
 
 If you use `PLQ-Sim`, please indicate in your published work by citing: 
-- **PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends, Computer Physics Communications, 296, 2024, 109015.**
+- **PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends, Comput. Phys. Commun., 296, 2024, 109015.**
 
   [![DOI:10.1016/j.cpc.2023.109015](https://img.shields.io/badge/DOI-10.1016/j.cpc.2023.109015-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.109015)
 
