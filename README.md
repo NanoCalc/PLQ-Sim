@@ -25,7 +25,7 @@ Detailed instructions for using PLQ-Sim can be consulted in our published articl
 
 [**PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends**](https://doi.org/10.1016/j.cpc.2023.109015)
 
-This article is open access: you can get the preprint here.
+This article is open access: you can get the preprint [here](https://github.com/NanoCalc/PLQ-Sim/blob/main/PLQ-Sim.pdf).
 
 Earlier articles that form the basis for the current theory used in the program:
 
