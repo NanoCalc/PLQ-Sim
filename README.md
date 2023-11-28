@@ -82,7 +82,7 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-* The [`data-sample`](https://github.com/NanoCalc/PLQ-Sim/tree/main/data-sample) folder contains an example of the data set needed to run `PLQ-Sim`.<br> 
+* The [`data-sample`](https://github.com/NanoCalc/PLQ-Sim/tree/main/Data%20Sample) folder contains an example of the data set needed to run `PLQ-Sim`.<br> 
 You can download them [here](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/data-sample.zip)
 
 # Acknowledgments
