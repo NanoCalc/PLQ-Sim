@@ -23,7 +23,7 @@ Our research group developed a theory to calculate $PLQ_{D}$ and $PLQ_{A}$ based
 
 Detailed instructions for using PLQ-Sim can be consulted in our published article:
 
-**PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends, Computer Physics Communications, 296, 2024, 109015** [link](https://doi.org/10.1016/j.cpc.2023.109015)
+**PLQ−Sim: A Computational Tool for Simulating Photoluminescence Quenching Dynamics in Organic Donor/Acceptor Blends, Computer Physics Communications, 296, 2024, 109015.** [link](https://doi.org/10.1016/j.cpc.2023.109015)
 
 This article is open access: you can get the preprint [here](https://github.com/NanoCalc/PLQ-Sim/blob/main/PLQ-Sim.pdf).
 
