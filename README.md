@@ -30,7 +30,7 @@ Detailed instructions for using PLQ-Sim can be consulted in our published articl
 
  [![DOI:10.1016/j.cpc.2023.109015](https://img.shields.io/badge/DOI-10.1016/j.cpc.2023.109015-B31B1B.svg)](https://doi.org/10.1016/j.cpc.2023.109015)
 
-This article is open access: you can get the preprint [here](https://github.com/NanoCalc/PLQ-Sim/blob/main/PLQ-Sim.pdf).
+**The preprint of this article is available for download:** [here](https://github.com/NanoCalc/PLQ-Sim/blob/main/PLQ-Sim.pdf).
 
 Earlier articles that form the basis for the current theory used in the program:
 
