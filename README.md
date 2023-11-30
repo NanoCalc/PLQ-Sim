@@ -38,6 +38,8 @@ Earlier articles that form the basis for the current theory used in the program:
 
 **Conditions for efficient charge generation preceded by energy transfer process in non-fullerene organic solar cells, J. Mater. Chem. A, 2021, 9, 27568-27585.** [![DOI:10.1039/D1TA06698F](https://img.shields.io/badge/DOI-10.1039/D1TA06698F-B31B1.svg)](https://doi.org/10.1039/D1TA06698F)
 
+**High photothermal conversion efficiency for semiconducting polymer/fullerene nanoparticles and its correlation with photoluminescence quenching, Mater. Adv., 2023, 4, 486-503.** [![DOI:10.1039/D2MA00912A](https://img.shields.io/badge/DOI-10.1039/D2MA00912A-B31B1.svg)](https://doi.org/10.1039/D2MA00912A)
+
 To perform the simulation, basic information about the materials must be provided as input parameters (like the energy levels, dielectric constant, reorganization energy, and singlet exciton lifetime, for instance). If some information of the analyzed system is missing, default values for the class of material studied can be used. After running the simulation, the rates of the physical processes involved in the charge dynamics at the D/A interface (like the charge transfer or charge recombination rates, for instance) are provided as output. This information is crucial to characterize the photophysical process as a whole and propose solutions for system optimizations.
 
 **The software binaries can be downloaded for the following operating systems:**  [*Unix-like systems (Linux)*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-Unix.zip), [*Windows*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-Windows.zip) and [*macOS*](https://github.com/NanoCalc/PLQ-Sim/releases/download/1.0-beta/PLQSim-MacOS.zip).
