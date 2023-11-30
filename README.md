@@ -70,6 +70,8 @@ Demonstration of part of the generated output for PBDB-TF/ITIC blend:
   Energy−level representation and transfer rates for the electron dynamics calculated by PLQ-Sim.
 </p>
 
+Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
+
 # Authors
 * [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
 * [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>a</sup>
